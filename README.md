@@ -1,2 +1,1 @@
-# Examine
-# Online Assesment Tool
+# Examine | Online Assesment Tool
